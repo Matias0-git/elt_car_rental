@@ -1,4 +1,4 @@
-# Proyecto: Pipeline ETL de Alquiler de Autos (Car Rental)
+# Proyecto: Pipeline ELT de Alquiler de Autos (Car Rental)
 
 Este proyecto implementa un pipeline de datos completo para ingestar, procesar y analizar datos de alquileres de vehículos en EE. UU.
 
